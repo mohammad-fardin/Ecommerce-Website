@@ -23,6 +23,6 @@
 
 ## About
 
-Experience Uomo Ecommerce — a perfect blend of modern design and effortless usability. Built with ReactJS, React Router DOM, Material UI, Redux Toolkit, and SwiperJS, the platform delivers a fast, responsive journey across every device. Enjoy smooth shopping with convenient cart handling, rich product details, and instant order notifications.
+Experience Shoppy Ecommerce — a perfect blend of modern design and effortless usability. Built with ReactJS, React Router DOM, Material UI, Redux Toolkit, and SwiperJS, the platform delivers a fast, responsive journey across every device. Enjoy smooth shopping with convenient cart handling, rich product details, and instant order notifications.
 
 

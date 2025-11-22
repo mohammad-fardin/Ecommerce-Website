@@ -22,12 +22,12 @@ const AboutPage = () => {
   return (
     <>
       <div className="aboutSection">
-        <h2>About Uomo</h2>
+        <h2>About Shoppy</h2>
         <img src={about1} alt="" />
         <div className="aboutContent">
           <h3>Our Story</h3>
           <h4>
-          At Uomo, we believe fashion is more than just clothing — it’s a lifestyle.
+          At Shoppy, we believe fashion is more than just clothing — it’s a lifestyle.
 We curate high-quality products that blend modern style with everyday comfort, helping you express your personality with confidence. Our mission is simple: to bring premium, trend-setting designs to your doorstep at an honest price.
           </h4>
           <p>
@@ -61,7 +61,7 @@ We curate high-quality products that blend modern style with everyday comfort, h
             <div className="textContent">
               <h5>The Company</h5>
               <p>
-              At Uomo, we are committed to delivering a seamless shopping experience through quality products, modern design, and reliable service. We focus on bringing together style and comfort so every customer can confidently express themselves. Our dedication to innovation and customer satisfaction drives everything we do.
+              At Shoppy, we are committed to delivering a seamless shopping experience through quality products, modern design, and reliable service. We focus on bringing together style and comfort so every customer can confidently express themselves. Our dedication to innovation and customer satisfaction drives everything we do.
               </p>
             </div>
           </div>

@@ -140,7 +140,7 @@ const Footer = () => {
         </div>
         <div className="footer_bottom">
           <p>
-            © {getCurrentYear()} Uomo. All Rights Reserved | Made By{" "}
+            © {getCurrentYear()} Shoppy. All Rights Reserved | Made By{" "}
             <a
               href="https://github.com/mohammad-fardin"
               target="_blank"
